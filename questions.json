@@ -1,1 +1,1208 @@
-
+{
+    "Science": [
+        {
+            "question": "How many elements are currently in the periodic table?",
+            "options": [
+                "116",
+                "117",
+                "118",
+                "119"
+            ],
+            "answer": "118"
+        },
+        {
+            "question": "What is the most abundant gas in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Nitrogen",
+                "Carbon Dioxide",
+                "Hydrogen"
+            ],
+            "answer": "Nitrogen"
+        },
+        {
+            "question": "Which planet is the hottest in the solar system?",
+            "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mars"
+            ],
+            "answer": "Venus"
+        },
+        {
+            "question": "How many bones are in the adult human body?",
+            "options": [
+                "206",
+                "207",
+                "208",
+                "209"
+            ],
+            "answer": "206"
+        },
+        {
+            "question": "What force pulls objects toward Earth?",
+            "options": [
+                "Magnetism",
+                "Gravity",
+                "Friction",
+                "Electricity"
+            ],
+            "answer": "Gravity"
+        },
+        {
+            "question": "What is H2O commonly known as?",
+            "options": [
+                "Salt",
+                "Oxygen",
+                "Water",
+                "Hydrogen"
+            ],
+            "answer": "Water"
+        },
+        {
+            "question": "Which organ pumps blood through the body?",
+            "options": [
+                "Brain",
+                "Lung",
+                "Heart",
+                "Liver"
+            ],
+            "answer": "Heart"
+        },
+        {
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Helium"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "What is the center of an atom called?",
+            "options": [
+                "Electron",
+                "Proton",
+                "Nucleus",
+                "Molecule"
+            ],
+            "answer": "Nucleus"
+        },
+        {
+            "question": "Which scientist developed the theory of relativity?",
+            "options": [
+                "Newton",
+                "Einstein",
+                "Darwin",
+                "Galileo"
+            ],
+            "answer": "Einstein"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": [
+                "Go",
+                "Gd",
+                "Au",
+                "Ag"
+            ],
+            "answer": "Au"
+        },
+        {
+            "question": "Which part of the cell contains DNA?",
+            "options": [
+                "Nucleus",
+                "Ribosome",
+                "Cell Wall",
+                "Cytoplasm"
+            ],
+            "answer": "Nucleus"
+        },
+        {
+            "question": "What is the speed of light approximately?",
+            "options": [
+                "300,000 km/s",
+                "30,000 km/s",
+                "3,000 km/s",
+                "300 km/s"
+            ],
+            "answer": "300,000 km/s"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Saturn",
+                "Jupiter",
+                "Neptune"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Which animal lays the largest eggs?",
+            "options": [
+                "Whale",
+                "Crocodile",
+                "Elephant",
+                "Ostrich"
+            ],
+            "answer": "Ostrich"
+        },
+        {
+            "question": "What do bees collect from flowers?",
+            "options": [
+                "Nectar",
+                "Salt",
+                "Sand",
+                "Bark"
+            ],
+            "answer": "Nectar"
+        },
+        {
+            "question": "What is the main source of energy for Earth?",
+            "options": [
+                "Moon",
+                "Sun",
+                "Wind",
+                "Ocean"
+            ],
+            "answer": "Sun"
+        },
+        {
+            "question": "What is the boiling point of water at sea level?",
+            "options": [
+                "50\u00b0C",
+                "75\u00b0C",
+                "100\u00b0C",
+                "150\u00b0C"
+            ],
+            "answer": "100\u00b0C"
+        },
+        {
+            "question": "Which blood cells help fight infections?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Plasma"
+            ],
+            "answer": "White blood cells"
+        },
+        {
+            "question": "What type of energy is stored in food?",
+            "options": [
+                "Chemical energy",
+                "Sound energy",
+                "Nuclear energy",
+                "Light energy"
+            ],
+            "answer": "Chemical energy"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the chemical symbol for oxygen?",
+            "options": [
+                "Ox",
+                "O",
+                "Oy",
+                "Om"
+            ],
+            "answer": "O"
+        },
+        {
+            "question": "What gas do humans breathe in to survive?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Helium",
+                "Methane"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Iron",
+                "Diamond",
+                "Gold",
+                "Silver"
+            ],
+            "answer": "Diamond"
+        },
+        {
+            "question": "Which part of the body controls thoughts and memory?",
+            "options": [
+                "Heart",
+                "Brain",
+                "Liver",
+                "Kidney"
+            ],
+            "answer": "Brain"
+        },
+        {
+            "question": "What process do plants use to make food?",
+            "options": [
+                "Respiration",
+                "Digestion",
+                "Photosynthesis",
+                "Evaporation"
+            ],
+            "answer": "Photosynthesis"
+        },
+        {
+            "question": "What is the closest star to Earth?",
+            "options": [
+                "Sirius",
+                "The Sun",
+                "Polaris",
+                "Alpha Centauri"
+            ],
+            "answer": "The Sun"
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "options": [
+                "Ir",
+                "Fe",
+                "In",
+                "I"
+            ],
+            "answer": "Fe"
+        },
+        {
+            "question": "Which planet is famous for its rings?",
+            "options": [
+                "Mars",
+                "Saturn",
+                "Mercury",
+                "Venus"
+            ],
+            "answer": "Saturn"
+        },
+        {
+            "question": "What is the basic unit of life?",
+            "options": [
+                "Atom",
+                "Cell",
+                "Organ",
+                "Tissue"
+            ],
+            "answer": "Cell"
+        },
+        {
+            "question": "What is the study of living things called?",
+            "options": [
+                "Biology",
+                "Geology",
+                "Astronomy",
+                "Chemistry"
+            ],
+            "answer": "Biology"
+        },
+        {
+            "question": "What is the study of matter and chemicals called?",
+            "options": [
+                "Physics",
+                "Chemistry",
+                "History",
+                "Biology"
+            ],
+            "answer": "Chemistry"
+        },
+        {
+            "question": "Which planet is closest to the Sun?",
+            "options": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "What do we call animals that eat only plants?",
+            "options": [
+                "Carnivores",
+                "Herbivores",
+                "Omnivores",
+                "Predators"
+            ],
+            "answer": "Herbivores"
+        },
+        {
+            "question": "What do we call animals that eat both plants and meat?",
+            "options": [
+                "Herbivores",
+                "Carnivores",
+                "Omnivores",
+                "Insects"
+            ],
+            "answer": "Omnivores"
+        },
+        {
+            "question": "Which system helps humans breathe?",
+            "options": [
+                "Digestive system",
+                "Respiratory system",
+                "Nervous system",
+                "Skeletal system"
+            ],
+            "answer": "Respiratory system"
+        },
+        {
+            "question": "What is frozen water called?",
+            "options": [
+                "Steam",
+                "Ice",
+                "Gas",
+                "Lava"
+            ],
+            "answer": "Ice"
+        },
+        {
+            "question": "What is the smallest unit of matter?",
+            "options": [
+                "Cell",
+                "Atom",
+                "Tissue",
+                "Planet"
+            ],
+            "answer": "Atom"
+        },
+        {
+            "question": "Which natural satellite orbits Earth?",
+            "options": [
+                "Mars",
+                "Moon",
+                "Venus",
+                "Sun"
+            ],
+            "answer": "Moon"
+        },
+        {
+            "question": "What is the study of space called?",
+            "options": [
+                "Biology",
+                "Astronomy",
+                "Chemistry",
+                "Geography"
+            ],
+            "answer": "Astronomy"
+        }
+    ],
+    "History": [
+        {
+            "question": "Who was the first President of the United States?",
+            "options": [
+                "Abraham Lincoln",
+                "George Washington",
+                "Thomas Jefferson",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "In which year did World War II end?",
+            "options": [
+                "1943",
+                "1944",
+                "1945",
+                "1946"
+            ],
+            "answer": "1945"
+        },
+        {
+            "question": "Which ancient civilization built the pyramids of Giza?",
+            "options": [
+                "Greeks",
+                "Romans",
+                "Egyptians",
+                "Persians"
+            ],
+            "answer": "Egyptians"
+        },
+        {
+            "question": "Who was the first emperor of Rome?",
+            "options": [
+                "Julius Caesar",
+                "Augustus",
+                "Nero",
+                "Constantine"
+            ],
+            "answer": "Augustus"
+        },
+        {
+            "question": "The Magna Carta was signed in which country?",
+            "options": [
+                "France",
+                "England",
+                "Spain",
+                "Germany"
+            ],
+            "answer": "England"
+        },
+        {
+            "question": "Who is commonly credited with reaching the Americas in 1492?",
+            "options": [
+                "Marco Polo",
+                "Christopher Columbus",
+                "Ferdinand Magellan",
+                "Vasco da Gama"
+            ],
+            "answer": "Christopher Columbus"
+        },
+        {
+            "question": "Which empire was ruled by Genghis Khan?",
+            "options": [
+                "Roman Empire",
+                "Ottoman Empire",
+                "Mongol Empire",
+                "Persian Empire"
+            ],
+            "answer": "Mongol Empire"
+        },
+        {
+            "question": "The Cold War was mainly between the United States and which country?",
+            "options": [
+                "Germany",
+                "China",
+                "Soviet Union",
+                "Japan"
+            ],
+            "answer": "Soviet Union"
+        },
+        {
+            "question": "Who was the British Prime Minister during much of World War II?",
+            "options": [
+                "Winston Churchill",
+                "Neville Chamberlain",
+                "Tony Blair",
+                "Margaret Thatcher"
+            ],
+            "answer": "Winston Churchill"
+        },
+        {
+            "question": "Which city was destroyed by a volcano in AD 79?",
+            "options": [
+                "Athens",
+                "Pompeii",
+                "Rome",
+                "Sparta"
+            ],
+            "answer": "Pompeii"
+        },
+        {
+            "question": "Who was known as the Maid of Orleans?",
+            "options": [
+                "Cleopatra",
+                "Joan of Arc",
+                "Queen Victoria",
+                "Marie Curie"
+            ],
+            "answer": "Joan of Arc"
+        },
+        {
+            "question": "Which war was fought between the North and South in the United States?",
+            "options": [
+                "Revolutionary War",
+                "Civil War",
+                "Cold War",
+                "War of 1812"
+            ],
+            "answer": "Civil War"
+        },
+        {
+            "question": "The Renaissance began in which country?",
+            "options": [
+                "Italy",
+                "England",
+                "Russia",
+                "China"
+            ],
+            "answer": "Italy"
+        },
+        {
+            "question": "Who was the famous queen of ancient Egypt?",
+            "options": [
+                "Cleopatra",
+                "Elizabeth I",
+                "Victoria",
+                "Catherine the Great"
+            ],
+            "answer": "Cleopatra"
+        },
+        {
+            "question": "Which wall divided Berlin during the Cold War?",
+            "options": [
+                "Great Wall",
+                "Berlin Wall",
+                "Iron Wall",
+                "Eastern Wall"
+            ],
+            "answer": "Berlin Wall"
+        },
+        {
+            "question": "In which country did the Industrial Revolution begin?",
+            "options": [
+                "United States",
+                "France",
+                "Britain",
+                "Germany"
+            ],
+            "answer": "Britain"
+        },
+        {
+            "question": "Who was the leader of Nazi Germany during World War II?",
+            "options": [
+                "Adolf Hitler",
+                "Joseph Stalin",
+                "Benito Mussolini",
+                "Francisco Franco"
+            ],
+            "answer": "Adolf Hitler"
+        },
+        {
+            "question": "Which ancient Greek city-state was famous for its warriors?",
+            "options": [
+                "Athens",
+                "Sparta",
+                "Corinth",
+                "Thebes"
+            ],
+            "answer": "Sparta"
+        },
+        {
+            "question": "What ship sank in 1912 after hitting an iceberg?",
+            "options": [
+                "Lusitania",
+                "Titanic",
+                "Mayflower",
+                "Santa Maria"
+            ],
+            "answer": "Titanic"
+        },
+        {
+            "question": "Who wrote the Declaration of Independence?",
+            "options": [
+                "George Washington",
+                "Benjamin Franklin",
+                "Thomas Jefferson",
+                "John Hancock"
+            ],
+            "answer": "Thomas Jefferson"
+        },
+        {
+            "question": "Which empire was centered in Constantinople?",
+            "options": [
+                "Byzantine Empire",
+                "Mongol Empire",
+                "Aztec Empire",
+                "British Empire"
+            ],
+            "answer": "Byzantine Empire"
+        },
+        {
+            "question": "Who was the first man to walk on the Moon?",
+            "options": [
+                "Buzz Aldrin",
+                "Neil Armstrong",
+                "Yuri Gagarin",
+                "John Glenn"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "In which year was the American Declaration of Independence adopted?",
+            "options": [
+                "1776",
+                "1789",
+                "1812",
+                "1865"
+            ],
+            "answer": "1776"
+        },
+        {
+            "question": "Which country gifted the Statue of Liberty to the United States?",
+            "options": [
+                "Britain",
+                "France",
+                "Spain",
+                "Italy"
+            ],
+            "answer": "France"
+        },
+        {
+            "question": "Who was the first President of Turkey?",
+            "options": [
+                "Ismet Inonu",
+                "Mustafa Kemal Ataturk",
+                "Celal Bayar",
+                "Adnan Menderes"
+            ],
+            "answer": "Mustafa Kemal Ataturk"
+        },
+        {
+            "question": "Which empire conquered Constantinople in 1453?",
+            "options": [
+                "Roman Empire",
+                "Ottoman Empire",
+                "Persian Empire",
+                "Mongol Empire"
+            ],
+            "answer": "Ottoman Empire"
+        },
+        {
+            "question": "Which ancient civilization used cuneiform writing?",
+            "options": [
+                "Sumerians",
+                "Romans",
+                "Greeks",
+                "Vikings"
+            ],
+            "answer": "Sumerians"
+        },
+        {
+            "question": "Who was the famous Macedonian conqueror?",
+            "options": [
+                "Alexander the Great",
+                "Julius Caesar",
+                "Hannibal",
+                "Augustus"
+            ],
+            "answer": "Alexander the Great"
+        },
+        {
+            "question": "Which country did Napoleon Bonaparte rule?",
+            "options": [
+                "Spain",
+                "France",
+                "Germany",
+                "Russia"
+            ],
+            "answer": "France"
+        },
+        {
+            "question": "What was the name of the trade route connecting Asia and Europe?",
+            "options": [
+                "Silk Road",
+                "Spice Road",
+                "Gold Road",
+                "Roman Road"
+            ],
+            "answer": "Silk Road"
+        },
+        {
+            "question": "Which civilization built Machu Picchu?",
+            "options": [
+                "Aztec",
+                "Inca",
+                "Maya",
+                "Roman"
+            ],
+            "answer": "Inca"
+        },
+        {
+            "question": "Which war ended with the Treaty of Versailles?",
+            "options": [
+                "World War I",
+                "World War II",
+                "Cold War",
+                "Korean War"
+            ],
+            "answer": "World War I"
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during much of World War II?",
+            "options": [
+                "Lenin",
+                "Stalin",
+                "Trotsky",
+                "Gorbachev"
+            ],
+            "answer": "Stalin"
+        },
+        {
+            "question": "Which ancient people are known for developing democracy in Athens?",
+            "options": [
+                "Greeks",
+                "Romans",
+                "Egyptians",
+                "Persians"
+            ],
+            "answer": "Greeks"
+        },
+        {
+            "question": "Which city was the capital of the Roman Empire?",
+            "options": [
+                "Athens",
+                "Rome",
+                "Alexandria",
+                "Carthage"
+            ],
+            "answer": "Rome"
+        },
+        {
+            "question": "Who was the famous Carthaginian general who crossed the Alps?",
+            "options": [
+                "Hannibal",
+                "Caesar",
+                "Scipio",
+                "Augustus"
+            ],
+            "answer": "Hannibal"
+        },
+        {
+            "question": "The Great Wall is located in which country?",
+            "options": [
+                "Japan",
+                "China",
+                "Korea",
+                "India"
+            ],
+            "answer": "China"
+        },
+        {
+            "question": "Which country was ruled by pharaohs?",
+            "options": [
+                "Egypt",
+                "Greece",
+                "Rome",
+                "Persia"
+            ],
+            "answer": "Egypt"
+        },
+        {
+            "question": "Which event started after the storming of the Bastille?",
+            "options": [
+                "French Revolution",
+                "Russian Revolution",
+                "American Revolution",
+                "Industrial Revolution"
+            ],
+            "answer": "French Revolution"
+        },
+        {
+            "question": "Which people were known for longships and raids in medieval Europe?",
+            "options": [
+                "Vikings",
+                "Romans",
+                "Egyptians",
+                "Mongols"
+            ],
+            "answer": "Vikings"
+        }
+    ],
+    "Movies": [
+        {
+            "question": "Who directed the movie Titanic?",
+            "options": [
+                "Steven Spielberg",
+                "James Cameron",
+                "Christopher Nolan",
+                "George Lucas"
+            ],
+            "answer": "James Cameron"
+        },
+        {
+            "question": "Which movie features the quote, 'May the Force be with you'?",
+            "options": [
+                "Star Wars",
+                "Star Trek",
+                "Avatar",
+                "Dune"
+            ],
+            "answer": "Star Wars"
+        },
+        {
+            "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+            "options": [
+                "Chris Evans",
+                "Robert Downey Jr.",
+                "Chris Hemsworth",
+                "Mark Ruffalo"
+            ],
+            "answer": "Robert Downey Jr."
+        },
+        {
+            "question": "Which movie features a character named Jack Sparrow?",
+            "options": [
+                "Harry Potter",
+                "Pirates of the Caribbean",
+                "Lord of the Rings",
+                "The Hobbit"
+            ],
+            "answer": "Pirates of the Caribbean"
+        },
+        {
+            "question": "What is the name of the wizarding school in Harry Potter?",
+            "options": [
+                "Durmstrang",
+                "Beauxbatons",
+                "Hogwarts",
+                "Ilvermorny"
+            ],
+            "answer": "Hogwarts"
+        },
+        {
+            "question": "Which movie won Best Picture at the 1998 Oscars?",
+            "options": [
+                "Titanic",
+                "Saving Private Ryan",
+                "The Matrix",
+                "Gladiator"
+            ],
+            "answer": "Titanic"
+        },
+        {
+            "question": "Who directed The Dark Knight?",
+            "options": [
+                "Zack Snyder",
+                "Christopher Nolan",
+                "Tim Burton",
+                "Matt Reeves"
+            ],
+            "answer": "Christopher Nolan"
+        },
+        {
+            "question": "Which actor played Neo in The Matrix?",
+            "options": [
+                "Brad Pitt",
+                "Keanu Reeves",
+                "Tom Cruise",
+                "Leonardo DiCaprio"
+            ],
+            "answer": "Keanu Reeves"
+        },
+        {
+            "question": "Which movie features the character Simba?",
+            "options": [
+                "Aladdin",
+                "The Lion King",
+                "Toy Story",
+                "Frozen"
+            ],
+            "answer": "The Lion King"
+        },
+        {
+            "question": "In Toy Story, what kind of toy is Woody?",
+            "options": [
+                "Robot",
+                "Cowboy doll",
+                "Dinosaur",
+                "Space ranger"
+            ],
+            "answer": "Cowboy doll"
+        },
+        {
+            "question": "Which movie features a blue alien species called the Na'vi?",
+            "options": [
+                "Avatar",
+                "Star Wars",
+                "Guardians of the Galaxy",
+                "Interstellar"
+            ],
+            "answer": "Avatar"
+        },
+        {
+            "question": "Who directed Jaws?",
+            "options": [
+                "James Cameron",
+                "Steven Spielberg",
+                "Martin Scorsese",
+                "Ridley Scott"
+            ],
+            "answer": "Steven Spielberg"
+        },
+        {
+            "question": "Which movie series features Frodo Baggins?",
+            "options": [
+                "Harry Potter",
+                "The Lord of the Rings",
+                "Narnia",
+                "Star Wars"
+            ],
+            "answer": "The Lord of the Rings"
+        },
+        {
+            "question": "Which movie features the song 'Let It Go'?",
+            "options": [
+                "Moana",
+                "Tangled",
+                "Frozen",
+                "Encanto"
+            ],
+            "answer": "Frozen"
+        },
+        {
+            "question": "Who played the Joker in The Dark Knight?",
+            "options": [
+                "Joaquin Phoenix",
+                "Heath Ledger",
+                "Jared Leto",
+                "Jack Nicholson"
+            ],
+            "answer": "Heath Ledger"
+        },
+        {
+            "question": "Which movie is about dreams within dreams?",
+            "options": [
+                "Interstellar",
+                "Inception",
+                "Tenet",
+                "The Prestige"
+            ],
+            "answer": "Inception"
+        },
+        {
+            "question": "Which dinosaur movie was directed by Steven Spielberg?",
+            "options": [
+                "King Kong",
+                "Jurassic Park",
+                "Godzilla",
+                "The Lost World"
+            ],
+            "answer": "Jurassic Park"
+        },
+        {
+            "question": "Which movie features the character Darth Vader?",
+            "options": [
+                "Star Wars",
+                "Alien",
+                "Blade Runner",
+                "Dune"
+            ],
+            "answer": "Star Wars"
+        },
+        {
+            "question": "Which film features a boxer named Rocky Balboa?",
+            "options": [
+                "Creed",
+                "Rocky",
+                "Raging Bull",
+                "Warrior"
+            ],
+            "answer": "Rocky"
+        },
+        {
+            "question": "Which movie features a clownfish named Nemo?",
+            "options": [
+                "Shark Tale",
+                "Finding Nemo",
+                "The Little Mermaid",
+                "Luca"
+            ],
+            "answer": "Finding Nemo"
+        },
+        {
+            "question": "Who directed Pulp Fiction?",
+            "options": [
+                "Quentin Tarantino",
+                "Martin Scorsese",
+                "Steven Spielberg",
+                "James Cameron"
+            ],
+            "answer": "Quentin Tarantino"
+        },
+        {
+            "question": "Which movie features the character Tony Montana?",
+            "options": [
+                "Scarface",
+                "The Godfather",
+                "Goodfellas",
+                "Casino"
+            ],
+            "answer": "Scarface"
+        },
+        {
+            "question": "Who directed The Godfather?",
+            "options": [
+                "Francis Ford Coppola",
+                "Martin Scorsese",
+                "Stanley Kubrick",
+                "Ridley Scott"
+            ],
+            "answer": "Francis Ford Coppola"
+        },
+        {
+            "question": "Which movie features a character named Katniss Everdeen?",
+            "options": [
+                "Divergent",
+                "The Hunger Games",
+                "Twilight",
+                "Maze Runner"
+            ],
+            "answer": "The Hunger Games"
+        },
+        {
+            "question": "Which movie features the character Shrek?",
+            "options": [
+                "Madagascar",
+                "Shrek",
+                "Ice Age",
+                "Kung Fu Panda"
+            ],
+            "answer": "Shrek"
+        },
+        {
+            "question": "Who played Captain Jack Sparrow?",
+            "options": [
+                "Johnny Depp",
+                "Orlando Bloom",
+                "Brad Pitt",
+                "Tom Cruise"
+            ],
+            "answer": "Johnny Depp"
+        },
+        {
+            "question": "Which movie features a robot named WALL-E?",
+            "options": [
+                "Robots",
+                "WALL-E",
+                "Big Hero 6",
+                "The Incredibles"
+            ],
+            "answer": "WALL-E"
+        },
+        {
+            "question": "Which movie features the character Elsa?",
+            "options": [
+                "Frozen",
+                "Brave",
+                "Moana",
+                "Tangled"
+            ],
+            "answer": "Frozen"
+        },
+        {
+            "question": "Which movie features the character Buzz Lightyear?",
+            "options": [
+                "Cars",
+                "Toy Story",
+                "Monsters Inc.",
+                "Up"
+            ],
+            "answer": "Toy Story"
+        },
+        {
+            "question": "Which film is about a giant shark attacking a beach town?",
+            "options": [
+                "Jaws",
+                "Deep Blue Sea",
+                "Shark Tale",
+                "The Meg"
+            ],
+            "answer": "Jaws"
+        },
+        {
+            "question": "Who directed Interstellar?",
+            "options": [
+                "Christopher Nolan",
+                "James Cameron",
+                "Ridley Scott",
+                "Denis Villeneuve"
+            ],
+            "answer": "Christopher Nolan"
+        },
+        {
+            "question": "Which movie features the character Hermione Granger?",
+            "options": [
+                "Harry Potter",
+                "Narnia",
+                "Twilight",
+                "Percy Jackson"
+            ],
+            "answer": "Harry Potter"
+        },
+        {
+            "question": "Which movie features the character Luke Skywalker?",
+            "options": [
+                "Star Wars",
+                "Star Trek",
+                "Dune",
+                "Avatar"
+            ],
+            "answer": "Star Wars"
+        },
+        {
+            "question": "Which movie features a magical lamp and a genie?",
+            "options": [
+                "Aladdin",
+                "Mulan",
+                "Hercules",
+                "Tarzan"
+            ],
+            "answer": "Aladdin"
+        },
+        {
+            "question": "Which movie features the character Indiana Jones?",
+            "options": [
+                "Raiders of the Lost Ark",
+                "The Mummy",
+                "National Treasure",
+                "Jurassic Park"
+            ],
+            "answer": "Raiders of the Lost Ark"
+        },
+        {
+            "question": "Which actor played Wolverine in the X-Men movies?",
+            "options": [
+                "Hugh Jackman",
+                "Ryan Reynolds",
+                "Chris Evans",
+                "Christian Bale"
+            ],
+            "answer": "Hugh Jackman"
+        },
+        {
+            "question": "Which movie features a young wizard with a lightning-shaped scar?",
+            "options": [
+                "Harry Potter",
+                "The Hobbit",
+                "Stardust",
+                "Eragon"
+            ],
+            "answer": "Harry Potter"
+        },
+        {
+            "question": "Which movie features a car named Lightning McQueen?",
+            "options": [
+                "Cars",
+                "Turbo",
+                "Planes",
+                "Toy Story"
+            ],
+            "answer": "Cars"
+        },
+        {
+            "question": "Which movie features the character Don Corleone?",
+            "options": [
+                "The Godfather",
+                "Scarface",
+                "Goodfellas",
+                "Heat"
+            ],
+            "answer": "The Godfather"
+        },
+        {
+            "question": "Which movie features the phrase 'I'm the king of the world'?",
+            "options": [
+                "Titanic",
+                "Avatar",
+                "Gladiator",
+                "Braveheart"
+            ],
+            "answer": "Titanic"
+        }
+    ]
+}
