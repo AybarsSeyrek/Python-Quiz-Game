@@ -1,11 +1,6 @@
 # Python-Quiz-Game
 # Professional Python Quiz Game
-
-This is a beginner-to-intermediate terminal-based Python quiz game designed as a programming portfolio project.
-
-The game lets players choose a category, answer randomly selected questions, receive a final score, review incorrect answers, and save high scores using JSON file storage.
-
-This project demonstrates core Python programming skills such as functions, lists, dictionaries, file handling, JSON, randomization, input validation, error handling, and modular project organization.
+Terminal-based Python quiz game. The game lets players choose a category, answer randomly selected questions, receive a final score, review incorrect answers, and save high scores using JSON file storage. This project demonstrates core Python programming skills such as functions, lists, dictionaries, file handling, JSON, randomization, input validation, error handling, and modular project organization.
 
 ---
 
